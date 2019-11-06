@@ -948,7 +948,7 @@ grid-template-areas:'head head head' '. cntnexam drawer' '. footer .';
 .text-option-jawaban{
   margin-left: 8px;
   text-align: left;
-  line-height: 20px;
+  line-height: 20px ;
 }
 .ant-radio-button-wrapper{
   border:unset;

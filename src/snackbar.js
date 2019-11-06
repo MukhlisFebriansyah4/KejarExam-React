@@ -23,7 +23,7 @@ class Snackbar extends Component {
       this.setState({ isActive: true }, () => {
         setTimeout(() => {
           this.setState({ isActive: false });
-        }, 2000);
+        }, 200000);
       });
     }
     
